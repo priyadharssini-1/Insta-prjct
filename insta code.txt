@@ -6,3 +6,4 @@ Create instagram app
 5. Code for liking
 6. Code for sending message
 7. Code for adding story
+8. Code for adding multiple stories
