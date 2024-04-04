@@ -1,0 +1,6 @@
+Create instagram app
+1. Code for posting pictures
+2. Code for posting Reels
+3. Code for sending follow requests
+4. Code for accepting follow requests
+5. Code for liking
